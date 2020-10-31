@@ -1,0 +1,14 @@
+.boxes {
+    border: 1px outset darkblue;
+    width: 33%;
+    float: right;
+}
+
+.footer {
+    margin-top: 250px;
+}
+
+img {
+    border-radius: 8px;
+    height: 500px;
+}
