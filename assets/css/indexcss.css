@@ -1,16 +1,23 @@
+.boxline {
+    height: 100px;
+    border: 1px solid black;
+}
+
 .boxes {
-    border: 1px outset darkblue;
     width: 33%;
     float: right;
+    height: 90px;
+    border: 1px outset darksalmon;
 }
 
 .footer {
-    margin-top: 250px;
+    margin-top: 20px;
 }
 
 img {
+    box-shadow: 3px 3px 7px black;
+    width: 300px;
     border-radius: 8px;
-    height: 500px;
 }
 
 article {
@@ -19,22 +26,15 @@ article {
 
 figcaption {
     border: 1px solid black;
+    height: 500px;
 }
 
 .kep1 {
-    border: 1px solid black;
-    width:100%;
     float:left;
 }
 
 .kep2 {
-    border: 1px solid black;
-    width:100%;
     float:right;
-}
-
-.boxline {
-    width: 100%;
 }
 
 li {
@@ -51,4 +51,5 @@ li a {
 nav {
     border: 1px solid black;
     width: auto;
+    height: 100px;
 }
