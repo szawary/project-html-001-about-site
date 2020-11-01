@@ -12,3 +12,43 @@ img {
     border-radius: 8px;
     height: 500px;
 }
+
+article {
+    border: 1px solid black;
+}
+
+figcaption {
+    border: 1px solid black;
+}
+
+.kep1 {
+    border: 1px solid black;
+    width:100%;
+    float:left;
+}
+
+.kep2 {
+    border: 1px solid black;
+    width:100%;
+    float:right;
+}
+
+.boxline {
+    width: 100%;
+}
+
+li {
+    float: left;
+    margin: 10px;
+    border: 1px solid black;
+}
+
+li a {
+    margin: 14px;
+    border: 1px solid black;
+}
+
+nav {
+    border: 1px solid black;
+    width: auto;
+}

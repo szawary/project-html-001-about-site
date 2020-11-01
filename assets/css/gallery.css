@@ -1,0 +1,27 @@
+img {
+    box-shadow: 3px 3px 7px black;
+    margin: 25px;
+
+}
+
+.galeria {
+    width: 1000px;
+}
+
+@media only screen and (max-width: 950px) {
+    body {
+      background-color: rgb(102, 129, 115);
+    }
+    .galeria {
+        width: 700px;
+    }
+  }
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+    .galeria {
+        width: 300px;
+    }
+  }
